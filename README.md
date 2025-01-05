@@ -1,7 +1,7 @@
 # todo
-
-<h2>React + Vite></h2>
-
+<br>
+<h2>React + Vite</h2>
+<h3>Basic Todo with React and TailwindCSS</h3>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
